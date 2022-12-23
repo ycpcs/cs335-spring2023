@@ -9,9 +9,9 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 ## Links
 
 * [Syllabus](syllabus/index.html)
-<!-- * [Schedule](schedule/index.html)
+* [Schedule](schedule/index.html)
 * [Assignments](assignments/index.html)
-* [Labs](labs/index.html)-->
+* [Labs](labs/index.html)
 * [Lab Setup](labs/setup.html)
 * [Resources](resources/index.html)
 * [Code Snippets](notes/index.html)
@@ -30,7 +30,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * **Mar 15** &mdash; [Cybersecurity Research Project](assignments/cybercrime.html) Report Due
 * **Mar 01** &mdash; [Buffer Overflow](labs/buffer_overflow.html) Attack Lab Due
 * **Feb 17** &mdash; [Shellshock](labs/shellshock.html) Attack Lab Due -->
-* **Feb 01** &mdash; [Ethics](assignments/ethics.html) Due
-* **Jan 27** &mdash; Welcome back!
+* **Jan 31** &mdash; [Ethics](assignments/ethics.html) Due
+* **Jan 26** &mdash; Welcome back!
 
 <!-- <sup>*</sup> Optional Lab/Assignment -->
