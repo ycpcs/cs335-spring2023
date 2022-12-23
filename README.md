@@ -7,7 +7,7 @@ This is the website for CS 335, Spring 2023 at York College of Pennsylvania.
 
 Unless indicated otherwise, all materials are
 
-Copyright (c) 2023, Galin Zhelezov &lt;<gzhelezo@ycp.edu>&gt;
+Copyright (c) 2023, Galin Zhelezov, gzhelezo at ycp.edu
 
 Unless indicated otherwise, all of the materials on this website
 are open source, and may be used, modified, and redistributed
