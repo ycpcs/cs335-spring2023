@@ -10,7 +10,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 
 >  Week    | Date     | Topic        | Readings   | Assignments & Labs                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
-> 01 | Jan 26 | Introduction and Course Philosophy, Lab Setup | | [Ethics](../ethics/ethics.html)
+> 01 | Jan 26 | Introduction and Course Philosophy, Lab Setup | | [Ethics](../assignments/ethics.html)
 > | | | |
 > 02 | Jan 31 | [Root Causes for Vulnerability](../slides/01_Reason_Vulnerability.pdf) | | [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 > 02 | Feb 02 | [Reverse Shell](../slides/09_Reverse_Shell.pdf)| CIS: Ch 9 | |  
