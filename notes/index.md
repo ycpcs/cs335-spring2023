@@ -123,7 +123,7 @@ This page contains notes and code snippets regularly used in class.
 ``````sudo snap install sublime-text --classic```  
 
 #### Clone a website 
-```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-clone.com```
+```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-copy.com```
   - ```--mirror``` make the download recursive
   - ```--no-parent``` Do not crawl the parent/top directory.
   - ```--convert-links``` makes all the links work properly with the offline copy

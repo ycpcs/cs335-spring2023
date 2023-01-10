@@ -56,6 +56,7 @@ Web Testing (Web Proxies)
 - [mitmproxy](https://mitmproxy.org/) is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets.
 - [Charles](https://www.charlesproxy.com/) is an HTTP proxy, an HTTP.
 monitor, and a reverse proxy. It enables you to view HTTPS traffic.
+- [HTTrack](https://www.httrack.com/) website copier.
 
 Vulnerability Exploitation
 ------------------------------------
