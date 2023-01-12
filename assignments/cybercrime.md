@@ -10,7 +10,7 @@ The topic will be on a true story from the dark side of the internet.
 
 ### Your Task
 
-The intent is to provide an opportunity for the student to investigate today’s advanced cyber threats. The project will consist of a short written report and an oral presentation.
+The intent is to provide an opportunity for the student to investigate today’s advanced cyber threats. The project will consist of a short-written report and an oral presentation.
 
 The topic will be accompanied by a student led class discussion about the various aspects of the issue. If you are presenting a recent attack, make sure you are discussing prevention techniques.
 
@@ -50,9 +50,10 @@ The topic will be accompanied by a student led class discussion about the variou
 - Face and biometric recognition
 - The Great Firewall of China
 
-* Anonymous and activists often cross paths.
+<sup>*</sup> Anonymous and activists often cross paths.
 
 ### Submitting
+
 <u>Slides and report</u>: due **Tuesday, March 14<sup>th</sup>** by 11:59 PM
 
 <u>Presentations</u>: **Tuesday, March 14<sup>th</sup>**

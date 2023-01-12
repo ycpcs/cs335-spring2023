@@ -13,6 +13,7 @@ This page contains notes and code snippets regularly used in class.
 - [Permissions](#permissions)
 - [Install Sublime](#install-sublime)
 - [Clone a website](#clone-a-website)
+- [Upgrade VM](#upgrade-vm)
 
 #### Networking
 
@@ -124,8 +125,14 @@ This page contains notes and code snippets regularly used in class.
 
 #### Clone a website 
 ```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-copy.com```
-  - ```--mirror``` make the download recursive
-  - ```--no-parent``` Do not crawl the parent/top directory.
-  - ```--convert-links``` makes all the links work properly with the offline copy
-  - ```--page-requisites``` download JS/CSS files
-  - ```--adjust-extension``` add the appropriate extensions (e.g. html, css, js) to files
+  - ```--mirror``` make the download recursive.
+  - ```--no-parent``` do not crawl the parent/top directory.
+  - ```--convert-links``` makes all the links work properly with the offline copy.
+  - ```--page-requisites``` download JS/CSS files.
+  - ```--adjust-extension``` add the appropriate extensions (e.g. html, css, js) to files.
+
+#### Upgrade VM 
+- ```sudo apt update``` - downloads package information from all configured sources.
+- ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions.
+- ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
+- ```sudo apt-get clean``` - removes all packages from the cache.
