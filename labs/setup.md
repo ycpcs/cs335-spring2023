@@ -21,7 +21,7 @@ Before installing the SEED VM, please do the following:
   - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. User Manual can be found [here](https://www.virtualbox.org/manual/).
 
 - Download the zip file `SEED-Ubuntu20.04.zip` from the
-[Google Drive](https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view?usp=sharing), unzip it,
+[Google Drive](https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view?usp=sharing) or [DigitalOcean](https://seed.nyc3.cdn.digitaloceanspaces.com/SEED-Ubuntu20.04.zip), unzip it,
 and you will get a `.vdi` file. This file contains the pre-built SEED
 Ubuntu 20.04 image. This document shows how to build a virtual machine
 using this image.
