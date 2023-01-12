@@ -24,8 +24,8 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 05 | Feb 21 | Network Basics | |
 > 05 | Feb 23 | Attacks on UDP Protocol | |
 > | | | |
-> 06 | Feb 28 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 |
-> 06 | Mar 02 | TCP Session Hijacking | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
+> 06 | Feb 28 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
+> 06 | Mar 02 | TCP Session Hijacking | CIS: Ch 16 | 
 > | | | |
 > 07 | Mar 07 | Attacks on IP and ICMP | | ICMP Redirect Attack Lab
 > 07 | Mar 09 | _Winter Vacation_ | |
