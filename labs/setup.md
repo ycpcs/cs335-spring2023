@@ -4,20 +4,7 @@ course_number: CS335
 title: Lab Setup
 ---
 
-Labs
------------------------------------
-- Hands-on [Labs](https://seedsecuritylabs.org/Labs_20.04/) for Security Education.
-
-Lab Setup
------------------------------------
-- [Oracle® VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. User Manual can be found [here](https://www.virtualbox.org/manual/).
-
-- Pre-built Virtual Machine [SEED Ubuntu 20.04 VM](https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view?usp=sharing).
-  - Primary Account:
-    - User ID: ```seed```
-    - Password: ```dees```
-
-Manual
+Install SEED VM on VirtualBox
 -----------------------------------
 
 ### Account Information of this VM
@@ -29,8 +16,9 @@ Manual
 
 Before installing the SEED VM, please do the following:
 
-- Install the free [VirtualBox](https://www.virtualbox.org/) software first.
-The VM has been tested on Version `6.1.16`.
+- Install the free [Oracle® VM VirtualBox](https://www.virtualbox.org/) software first.
+  - The VM has been tested on Version `6.1.16` and `6.1.32`.
+  - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. User Manual can be found [here](https://www.virtualbox.org/manual/).
 
 - Download the zip file `SEED-Ubuntu20.04.zip` from the
 [Google Drive](https://drive.google.com/file/d/138fqx0F8bThLm9ka8cnuxmrD6irtz_4m/view?usp=sharing), unzip it,
@@ -211,3 +199,8 @@ Troubleshooting
 - If the guest screen is too small:
   - With VirtualBox 6.0.0 you need to go to the VirtualBox Preferences » Display » Scale Factor = 200%.
 - When you clone your VM's, make sure the MAC Address Policy is set to _Generate new MAC addresses for all network adapters_.
+  
+
+Labs
+-----------------------------------
+- Hands-on [Labs](https://seedsecuritylabs.org/Labs_20.04/) for Security Education.
