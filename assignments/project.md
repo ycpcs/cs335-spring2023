@@ -34,6 +34,7 @@ You will be required to provide the instructor with several relevant articles an
 - SDN Security
 - QR Codes Security
 - Identity spoofing
+- Zero Trust
 - Blockchain
 - Reproducing previously published topic to find interesting new directions developing a new security mechanism/system *
   - [Journal of Cybersecurity](https://academic.oup.com/cybersecurity)
