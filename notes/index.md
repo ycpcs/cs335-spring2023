@@ -11,7 +11,7 @@ This page contains notes and code snippets regularly used in class.
 - [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
 - [Process commands](#process-commands)
 - [Permissions](#permissions)
-- [Install Sublime](#install-sublime)
+- [Install Editors](#install-editors)
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
@@ -120,9 +120,10 @@ This page contains notes and code snippets regularly used in class.
   - ```chmod 664 filename```: _rw- rw- r--_
   - ```chmod 644 filename```: _rw- r-- r--_
 
-#### Install Sublime 
-``````sudo snap install sublime-text --classic```  
-
+#### Install Editors
+- Sublime: ```sudo snap install sublime-text --classic```  
+- Visual Studio Code: ```sudo snap install --classic code```
+  
 #### Clone a website 
 ```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-copy.com```
   - ```--mirror``` make the download recursive.
