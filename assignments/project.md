@@ -12,7 +12,7 @@ Presentations: **Tuesday, May 09<sup>th</sup>**
 
 ### Introduction
 
-In this lab, you will work on a final project of your own choice. The Instructor must approve your project.
+In this lab, you will work on a final project of your own choice. The Instructor __must__ approve your project.
 The primary requirement is that your project be something interesting and related to computer security.
 
 ### Your Task
@@ -50,7 +50,7 @@ Expectations for Report and Presentation
 
 The paper is based off of the topic you selected for your class discussion. The purpose is to discuss in depth the impact of the issue on both the industry and society as a whole.
 
-The paper should be 2-3 pages single spaced (12pt. font) in length and have at least 4 primary sources. [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) should be used for citations.
+The paper should be 2-4 pages single spaced (12pt. font) in length and have at least 4 primary sources. [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) should be used for citations.
 
 The report should contain the following sections:
 
@@ -69,11 +69,11 @@ The goal of the presentations is to focus in on the most important content of th
 > - Countermeasures
 > - Discussion
 
-Your presentation should be no more than 5-7 minutes, leaving 2 minutes for Q&A. You should limit your presentation to at most 5 or 6 slides.
+Your presentation should be no more than 5-7 minutes, leaving 2 minutes for Q&A. You should limit your presentation to at most 8 or 9 slides.
 
 ### Grading
 
-The project will be graded as a total package based in part on the overall difficulty as well as the quality of the report and (to a lesser extent) the presentation. This means that selecting a simple project will require a more extensive discussion of results and improvements and vice versa for more challenging project.
+The project will be graded as a total package based in part on the __overall difficulty__ as well as the quality of the report and (to a lesser extent) the presentation. This means that selecting a simple project will require a more extensive discussion of results and improvements and vice versa for more challenging project.
 
 ### Submitting
 

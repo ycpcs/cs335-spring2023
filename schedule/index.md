@@ -36,8 +36,8 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 09 | Mar 21 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 |
 > 09 | Mar 23 | [ARP Spoofing](../slides/ARP_Spoofing.pdf) | | ARP Cache Poisoning Attack Lab
 > | | | |
-> 10 | Mar 28 | Password Cracking | |
-> 10 | Mar 30 | __Quiz 1__ | |
+> 10 | Mar 28 | __Quiz 1__ | |
+> 10 | Mar 30 | Password Cracking | |
 > | | | |
 > 11 | Apr 04 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
 > 11 | Apr 06 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |

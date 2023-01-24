@@ -52,6 +52,14 @@ The topic will be accompanied by a student led class discussion about the variou
 
 <sup>*</sup> Anonymous and activists often cross paths.
 
+### Expectations for Report and Presentation
+
+The paper is based off of the topic you selected for your class discussion. The purpose is to discuss in depth the impact of the issue on both the industry and society as a whole.
+
+The paper should be 2-3 pages single spaced (12pt. font) in length and have at least 4 primary sources. [IEEE format](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) should be used for citations.
+
+Your presentation should be no more than 4-5 minutes, leaving 2 minutes for Q&A. You should limit your presentation to at most 5 or 6 slides.
+
 ### Submitting
 
 <u>Slides and report</u>: due **Tuesday, March 14<sup>th</sup>** by 11:59 PM
