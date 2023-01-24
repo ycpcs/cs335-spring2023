@@ -22,6 +22,8 @@ Stuff:
 
 Course Description
 ------------------
+There's an old saying, usually attributed to Confucius, that goes something like "Give a man a fish, and you'll feed him for a day. Teach a man to fish, and you've fed him for a lifetime".
+
 The course covers a survey of various cyber security attacks and countermeasures used in network, web, database and application level security. Topics include operating systems security, network security, web security, covert channels, and static/dynamic code analysis. Lab exercises and projects provide hands-on experience in understanding cyber security attacks and countermeasures. These include Cross-site scripting, SQL injection, Buffer Overflow, TCP/IP attacks, Web tracking, and ethical hacking.
 
 
@@ -40,6 +42,10 @@ Class meetings will be primarily discussion of questions related to the topic an
 A special thank goes to Prof. Wenliang Du for his contributions on the [SEED security labs](https://seedsecuritylabs.org/Labs_20.04/) that will be adopted in our course projects.
 
 You will only get as much out of this elective course as you choose to put into it. Since we will be covering a significant amount of material in the course at a rapid pace, it is imperative that you keep up by participating in the class meetings. You must have completed the lab activities up to and including the one for the current class meeting in order to receive assistance on the current programming assignment. You will only get as much out of this elective course as you choose to put into it.
+
+You will do most of the practice homework at home and take the Exams on campus. You are expected to check Canvas and the web site regularly, for any communication, assignments due and/or updates.
+
+To achieve the course objectives, you must take responsibility for your own learning and participate as an active learner. The best way to learn about Cybersecurity is to practice. Our class meetings will be very hands on and interactive, so you will need to attend every session on time, having gone over any suggested readings, topics and applications, and respectfully participate in all class activities.
 
 Learning Outcomes
 -----------------
@@ -74,13 +80,13 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Labs and assignments: 40% (†)
--   2 Quizzes: 20%
--   Final _implementation_ project: 25%
--   Cybersecurity _research_ project: 10%
+-   Labs and assignments: 10% (†)
+-   2 Quizzes: 50%
+-   Final _implementation_ project: 25% (†)
+-   Cybersecurity _research_ project: 10% (†)
 -   Attendance and participation: 5%
 
-(†) You must make a good faith effort to complete all of the labs and assignments in order to pass the course. Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.
+(†) You must make a good faith effort to complete all of the assignments and projects in order to pass the course. Failure to complete all assignments and projects is grounds for receiving a reduced or failing grade for the course.
 
 Course website
 -----------------
@@ -98,7 +104,7 @@ Homework and Lab Assignments
 
 Homework assignments will be based on the lab activities performed during class and may include both written and programming components. Collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
 
-**You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments.
+<!-- **You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments. -->
 
 Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than three (3) days late.**
 
