@@ -22,8 +22,6 @@ Stuff:
 
 Course Description
 ------------------
-There's an old saying, usually attributed to Confucius, that goes something like "Give a man a fish, and you'll feed him for a day. Teach a man to fish, and you've fed him for a lifetime".
-
 The course covers a survey of various cyber security attacks and countermeasures used in network, web, database and application level security. Topics include operating systems security, network security, web security, covert channels, and static/dynamic code analysis. Lab exercises and projects provide hands-on experience in understanding cyber security attacks and countermeasures. These include Cross-site scripting, SQL injection, Buffer Overflow, TCP/IP attacks, Web tracking, and ethical hacking.
 
 
@@ -41,11 +39,7 @@ Class meetings will be primarily discussion of questions related to the topic an
 
 A special thank goes to Prof. Wenliang Du for his contributions on the [SEED security labs](https://seedsecuritylabs.org/Labs_20.04/) that will be adopted in our course projects.
 
-You will only get as much out of this elective course as you choose to put into it. Since we will be covering a significant amount of material in the course at a rapid pace, it is imperative that you keep up by participating in the class meetings. You must have completed the lab activities up to and including the one for the current class meeting in order to receive assistance on the current programming assignment. You will only get as much out of this elective course as you choose to put into it.
-
-You will do most of the practice homework at home and take the Exams on campus. You are expected to check Canvas and the web site regularly, for any communication, assignments due and/or updates.
-
-To achieve the course objectives, you must take responsibility for your own learning and participate as an active learner. The best way to learn about Cybersecurity is to practice. Our class meetings will be very hands on and interactive, so you will need to attend every session on time, having gone over any suggested readings, topics and applications, and respectfully participate in all class activities.
+There's an old saying, usually attributed to Confucius, that goes something like "Give a man a fish, and you'll feed him for a day. Teach a man to fish, and you've fed him for a lifetime". You will only get as much out of this course as you choose to put into it. Since we will be covering a significant amount of material in the course at a rapid pace, it is imperative that you keep up by participating in the class meetings. You must have completed the lab activities up to and including the one for the current class meeting in order to receive assistance on the current programming assignment. The best way to learn about Cybersecurity is to practice. Our class meetings will be very hands on and interactive, so you will need to attend every session on time, having gone over any suggested readings, topics and applications, and respectfully participate in all class activities. To achieve the course objectives, you must take responsibility for your own learning and participate as an active learner. 
 
 Learning Outcomes
 -----------------
