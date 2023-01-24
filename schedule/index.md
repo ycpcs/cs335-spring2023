@@ -55,5 +55,6 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 15 | May 04 | Game | |
 > | | | |
 > 16 | May 09 | *__Student Final Project Presentations__*
+> 16 | May 11 | *__Student Final Project Presentations__*
 
 **Disclaimer:** This schedule is subject to change by the instructor.
