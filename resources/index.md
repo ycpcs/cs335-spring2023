@@ -28,6 +28,7 @@ traffic on Windows. *Retired on November 25, 2019.*
   - netwox & netwag [Troubleshooting guide](docs\netwox.pdf).
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool.
 - [tcptrace](http://www.tcptrace.org/) is a tool for analysis of TCP dump files.
+- [tcpflow](https://github.com/simsong/tcpflow) is a powerful command line based tool for analyzing network traffic. 
 
 Active Capture
 ------------------------------------
