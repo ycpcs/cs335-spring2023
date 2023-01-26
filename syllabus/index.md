@@ -14,7 +14,7 @@ Class times:
 - Section 801, T/Th 6:00PM - 7:15PM in KEC 123
 - Section 802, T/Th 7:30PM - 8:45PM in KEC 123
 
-Stuff:
+Staff:
 
 > Instructor | Email | Office hours (KEC 123)
 > ---------- | ----- | ----------------------
