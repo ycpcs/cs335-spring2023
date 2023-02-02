@@ -22,9 +22,9 @@ void main()
 		sizeof(struct sockaddr_in));
 
 	// Send data via the TCP connection
-	char* data = "Hello World!";
-	// write(sockfd, data, strlen(data));
-	dup2(sockfd, 1);
+	char* data = "Hello World!\n";
+	write(sockfd, data, strlen(data));
+	//dup2(sockfd, 1);
 	printf("%s\n", data);
 
 	close(sockfd);
