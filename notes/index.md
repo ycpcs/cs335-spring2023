@@ -6,6 +6,7 @@ title: Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Reverse Shell](#reverse-shell)
 - [Networking](#networking)
 - [User Management](#user-management)
 - [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
@@ -15,6 +16,9 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### Reverse Shell
+- * <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a>
+  
 #### Networking
 
 - ```ifconfig -a``` displays all network interfaces and IP address.
