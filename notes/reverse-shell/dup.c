@@ -9,9 +9,9 @@ int main()
 	
 	printf("Original fd: %d\n", fd);
 	if(fd > 0) 
-	{	
-		int cd = dup(fd); 
-		printf("New fd: %d\n", cd);
+	{
+        int cd = dup(fd); 
+        printf("New fd: %d\n", cd);
 
 		char message[50];
         memset(message, 0x00, sizeof(message));
