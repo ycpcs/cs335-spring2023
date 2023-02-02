@@ -4,7 +4,7 @@
 #include <string.h>
 
 int main(){
-	int fd = open ("tets.txt", O_RDWR | O_CREAT,  S_IRWXU);
+	int fd = open ("test.txt", O_RDWR | O_CREAT,  S_IRWXU);
     // S_IRWXU - 00700 user (file owner) has read, write, and execute permission
 
 	printf("File Descriptor: %d\n", fd);
