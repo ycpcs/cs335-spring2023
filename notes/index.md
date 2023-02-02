@@ -19,6 +19,7 @@ This page contains notes and code snippets regularly used in class.
 #### Reverse Shell
 - File Descriptors Intro: <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a>
 - Redirection: <a href=".\reverse-shell\redirect.c" target="_blank">redirect.c</a>
+- Duplicate a file descriptor: <a href=".\reverse-shell\dup.c" target="_blank">dup.c</a>
   
 #### Networking
 
