@@ -14,7 +14,7 @@ void main()
 	// Fill in the destination information (IP, port #, and family)
 	memset(&server, '\0', sizeof(struct sockaddr_in));
 	server.sin_family = AF_INET;
-	server.sin_addr.s_addr = inet_addr("10.0.2.69");
+	server.sin_addr.s_addr = inet_addr("10.0.2.26");
 	server.sin_port = htons(8080);
 
 	// Connect to the destination
