@@ -17,7 +17,7 @@ This page contains notes and code snippets regularly used in class.
 - [Upgrade VM](#upgrade-vm)
 
 #### Reverse Shell
-- * <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a>
+- File Descriptors Intro: <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a>
   
 #### Networking
 
