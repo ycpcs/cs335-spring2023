@@ -6,6 +6,7 @@ title: Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Shellshock](#shellshock)
 - [Reverse Shell](#reverse-shell)
 - [Networking](#networking)
 - [User Management](#user-management)
@@ -16,8 +17,11 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### Shellshock 
+- Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
+
 #### Reverse Shell
-- File Descriptors Intro: <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a>
+- File Descriptors Intro: <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a> 
 - Redirection: <a href=".\reverse-shell\redirect.c" target="_blank">redirect.c</a>
 - Duplicate a file descriptor: <a href=".\reverse-shell\dup.c" target="_blank">dup.c</a> and <a href=".\reverse-shell\dup2.c" target="_blank">dup2.c</a>
 - Redirecting IO to TCP Connections: <a href=".\reverse-shell\tcp_in.c" target="_blank">tcp_in.c</a> and <a href=".\reverse-shell\tcp_out.c" target="_blank">tcp_out.c</a>
