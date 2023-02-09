@@ -20,6 +20,7 @@ This page contains notes and code snippets regularly used in class.
 
 #### Buffer Overflow 
 - Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
+- Memory Layout: : <a href=".\buffer\layout.c" target="_blank">layout.c</a>
 
 #### Shellshock 
 - Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
