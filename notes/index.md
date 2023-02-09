@@ -6,6 +6,7 @@ title: Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Buffer Overflow](#buffer-overflow)
 - [Shellshock](#shellshock)
 - [Reverse Shell](#reverse-shell)
 - [Networking](#networking)
@@ -16,6 +17,9 @@ This page contains notes and code snippets regularly used in class.
 - [Install Editors](#install-editors)
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
+
+#### Buffer Overflow 
+- Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
 
 #### Shellshock 
 - Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
