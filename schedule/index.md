@@ -16,10 +16,10 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 02 | Feb 02 | [Reverse Shell](../slides/09_Reverse_Shell.pdf)| CIS: Ch 9 | |  
 > | | | |
 > 03 | Feb 07 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
-> 03 | Feb 19 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
+> 03 | Feb 09 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | 
 > | | | |
-> 04 | Feb 14 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
-> 04 | Feb 16 | Buffer Overflow - 64 bit, Server Version | CIS: Ch 4 | 
+> 04 | Feb 14 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | 
+> 04 | Feb 16 | Buffer Overflow - 64 bit, Server Version | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
 > | | | |
 > 05 | Feb 21 | Network Basics | |
 > 05 | Feb 23 | Attacks on UDP Protocol | |
