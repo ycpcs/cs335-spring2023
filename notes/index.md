@@ -24,7 +24,7 @@ This page contains notes and code snippets regularly used in class.
 - Launching shell: <a href=".\buffer\launch_shell.c" target="_blank">launch_shell.c</a>
 - ASCII vs binary: <a href=".\buffer\print_zero.c" target="_blank">print_zero.c</a>
 - Print *esp*: <a href=".\buffer\sp.c" target="_blank">sp.c</a>
-- ASLR: <a href=".\buffer\aslr.c" target="_blank">aslr.c)</a>
+- ASLR: <a href=".\buffer\aslr.c" target="_blank">aslr.c</a>
 
 <a href="#">To top</a>
 
