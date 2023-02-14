@@ -22,8 +22,12 @@ This page contains notes and code snippets regularly used in class.
 - Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
 - Memory Layout: : <a href=".\buffer\layout.c" target="_blank">layout.c</a>
 
+<a href="#">To top</a>
+
 #### Shellshock 
 - Set-UID Example : <a href=".\shellshock\vul.c" target="_blank">vul.c</a>
+
+<a href="#">To top</a>
 
 #### Reverse Shell
 - File Descriptors Intro: <a href=".\reverse-shell\fd.c" target="_blank">fd.c</a> 
@@ -31,6 +35,8 @@ This page contains notes and code snippets regularly used in class.
 - Duplicate a file descriptor: <a href=".\reverse-shell\dup.c" target="_blank">dup.c</a> and <a href=".\reverse-shell\dup2.c" target="_blank">dup2.c</a>
 - Redirecting IO to TCP Connections: <a href=".\reverse-shell\tcp_in.c" target="_blank">tcp_in.c</a> and <a href=".\reverse-shell\tcp_out.c" target="_blank">tcp_out.c</a>
   
+<a href="#">To top</a>
+
 #### Networking
 
 - ```ifconfig -a``` displays all network interfaces and IP address.
@@ -41,7 +47,9 @@ This page contains notes and code snippets regularly used in class.
 - ```dig domain``` displays DNS information for _domain_.
 - ```dig -x IP``` does reverse lookup of _IP_ address.  
 
-#### User Management
+<a href="#">To top</a>
+
+#### User Management 
 
 - Local user information is stored in the _/etc/passwd_ file. Get the list of all users using ```cat /etc/passwd```. The fields are delimited by colons and contain the following:
   - User name
@@ -70,6 +78,8 @@ This page contains notes and code snippets regularly used in class.
   - _chmod_ command is used to change the permissions of a file or directory.
     - ```man chmod``` finds the manual for the _chmod_ command
 
+<a href="#">To top</a>
+
 #### File Commands and Directory Navigation
 
 - ```cd``` go to _$HOME_ directory.
@@ -89,6 +99,8 @@ This page contains notes and code snippets regularly used in class.
 - ```cat filename``` will display the contests of _filename_.
 - ```cat > filename```  creates a new file with _filename_.
 
+<a href="#">To top</a>
+
 #### Process commands
 
 - ```bg``` sends a process to the background.
@@ -99,6 +111,8 @@ This page contains notes and code snippets regularly used in class.
 - ```ps PID```	gets the status of a particular process.
 - ```kill PID```	kills a process with _PID_ .
 - ```nice```	starts a process with a given priority.
+
+<a href="#">To top</a>
 
 #### Permissions
 
@@ -136,10 +150,14 @@ This page contains notes and code snippets regularly used in class.
   - ```chmod 664 filename```: _rw- rw- r--_
   - ```chmod 644 filename```: _rw- r-- r--_
 
+<a href="#">To top</a>
+
 #### Install Editors
 - Sublime: ```sudo snap install sublime-text --classic```  
 - Visual Studio Code: ```sudo snap install --classic code```
-  
+
+<a href="#">To top</a>
+
 #### Clone a website 
 ```wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://site-to-copy.com```
   - ```--mirror``` make the download recursive.
@@ -148,8 +166,12 @@ This page contains notes and code snippets regularly used in class.
   - ```--page-requisites``` download JS/CSS files.
   - ```--adjust-extension``` add the appropriate extensions (e.g. html, css, js) to files.
 
+<a href="#">To top</a>
+
 #### Upgrade VM 
 - ```sudo apt update``` - downloads package information from all configured sources.
 - ```sudo apt upgrade``` - will upgrade all installed packages to their latest versions.
 - ```sudo apt-get autoremove``` - deletes orphaned packages, or dependencies that remain installed after you have installed an application and then deleted it.
 - ```sudo apt-get clean``` - removes all packages from the cache.
+
+<a href="#">To top</a>
