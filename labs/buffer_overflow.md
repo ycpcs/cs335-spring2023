@@ -24,6 +24,7 @@ title: Lab - Buffer Overflow
 - To turn off address randomization: ```$ sudo sysctl -w kernel.randomize_va_space=0```
 - Check the current randomization status: ```$ sudo sysctl kernel.randomize_va_space```
 - If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
+- Use ```-fno-stack-protector``` to turn off the StackGuard 
 
 <!--
  - To compile the ```stack.c``` program using debug flags: ```gcc stack.c -o gdb-stack -g -z execstack -fno-stack-protector```.
