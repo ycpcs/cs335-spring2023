@@ -17,6 +17,7 @@ title: Lab - Buffer Overflow
 - [Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
 
 - Alternative to create _badfile_: [exploit.c](buffer\exploit.c)
+- NOP - [No Operation](https://www.felixcloutier.com/x86/nop)
 
 ### Tips
 
