@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS335
-title: Snippets
+title: Notes and Snippets
 ---
 
 This page contains notes and code snippets regularly used in class.
