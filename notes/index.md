@@ -21,7 +21,7 @@ This page contains notes and code snippets regularly used in class.
 
 #### Networking 
 - udp_client: <a href=".\network\udp_client.txt" target="_blank">udp_client.txt</a>
-- udp_server: <a href=".\network\udp_sever.txt" target="_blank">udp_server.txt</a>
+- udp_server: <a href=".\network\udp_server.txt" target="_blank">udp_server.txt</a>
   
 #### Buffer Overflow 
 - Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
