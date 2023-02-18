@@ -6,10 +6,11 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Networking](#networking)
 - [Buffer Overflow](#buffer-overflow)
 - [Shellshock](#shellshock)
 - [Reverse Shell](#reverse-shell)
-- [Networking](#networking)
+- [Networking](#networking-1)
 - [User Management](#user-management)
 - [File Commands and Directory Navigation](#file-commands-and-directory-navigation)
 - [Process commands](#process-commands)
@@ -18,6 +19,10 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### Networking 
+- udp_client: <a href=".\network\udp_client.txt" target="_blank">udp_client.txt</a>
+- udp_server: <a href=".\network\udp_sever.txt" target="_blank">udp_server.txt</a>
+  
 #### Buffer Overflow 
 - Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
 - Memory Layout: : <a href=".\buffer\layout.c" target="_blank">layout.c</a>
