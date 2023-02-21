@@ -65,6 +65,7 @@ Vulnerability Exploitation
 - [Metasploit](https://github.com/rapid7/metasploit-framework) is pretty much the only game in town when you need a generic vulnerability exploitation framework, at least if you don’t want to pay for one.
 - [Ettercap](https://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
 - [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
+  - [Scapy Usage](https://scapy.readthedocs.io/en/latest/usage.html)
 - [sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 - [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
