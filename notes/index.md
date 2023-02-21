@@ -25,6 +25,8 @@ This page contains notes and code snippets regularly used in class.
 - Docket Setup: <a href=".\network\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Scapy: 
   - sniff: <a href=".\network\sniff.txt" target="_blank">sniff.txt</a>
+  - icmp_spoof: <a href=".\network\icmp_spoof.txt" target="_blank">icmp_spoof.txt</a>
+  - udp_spoof: <a href=".\network\udp_spoof.txt" target="_blank">udp_spoof.txt</a>
   
 #### Buffer Overflow 
 - Buffer Overflow Example : <a href=".\buffer\buffer.c" target="_blank">buffer.c</a>
