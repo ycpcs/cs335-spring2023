@@ -71,11 +71,13 @@ Vulnerability Exploitation
 - [Nikto](https://cirt.net/Nikto2) is an Open Source web server scanner.
 - [OpenVAS](http://www.openvas.org/) is an Open Vulnerability Assessment Scanner.
 - [Gobuster](https://github.com/OJ/gobuster) is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
+- [dsniff](https://www.monkey.org/~dugsong/dsniff/) is a collection of tools for network auditing and penetration testing.
 
 Network Spoofing
 ------------------------------------
 - [Ettercap](https://www.ettercap-project.org/) is a man-in-the-middle tool designed to listen to network traffic between two devices.
-- [DNSMasq](https://thekelleys.org.uk/dnsmasq/doc.html) is designed to quickly set up basic network services, such as DNS and DHCP, so you don’t have to hassle with complex service configuration
+- [DNSMasq](https://thekelleys.org.uk/dnsmasq/doc.html) is designed to quickly set up basic network services, such as DNS and DHCP, so you don’t have to hassle with complex service configuration.
+- [arpspoof](https://github.com/alandau/arpspoof) is a simple ARP spoofer for Windows.
 
 Password Crackers
 ------------------------------------
