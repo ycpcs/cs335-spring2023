@@ -67,3 +67,8 @@ Your presentation should be no more than 4-5 minutes, leaving 2 minutes for Q&A.
 <u>Presentations</u>: **Tuesday, March 14<sup>th</sup>**
 
 Upload a zip file containing your slides and report to the [Marmoset](https://cs.ycp.edu/marmoset/) server.
+
+
+### Topics already picked:
+- AlphaBay
+- Great Firewall of China
