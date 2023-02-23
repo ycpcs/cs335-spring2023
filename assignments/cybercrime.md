@@ -4,6 +4,11 @@ course_number: CS335
 title: "Cybersecurity research project"
 ---
 
+### Topics already picked
+- AlphaBay
+- Great Firewall of China
+  
+  ---------
 ### Introduction
 
 The topic will be on a true story from the dark side of the internet.
@@ -67,8 +72,3 @@ Your presentation should be no more than 4-5 minutes, leaving 2 minutes for Q&A.
 <u>Presentations</u>: **Tuesday, March 14<sup>th</sup>**
 
 Upload a zip file containing your slides and report to the [Marmoset](https://cs.ycp.edu/marmoset/) server.
-
-
-### Topics already picked:
-- AlphaBay
-- Great Firewall of China
