@@ -7,7 +7,13 @@ title: "Cybersecurity research project"
 ### Topics already picked
 - AlphaBay
 - Great Firewall of China
-  
+- MyDoom Virus
+- ILOVEYOU
+- Social Engineering Fraud 
+- Flashback 
+- Michael Calce (MafiaBoy)
+- Attacks on Banks and Gov. sites within Ukraine
+
   ---------
 ### Introduction
 
