@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [TCP](#tcp)
 - [ARP](#arp)
 - [Networking](#networking)
 - [Buffer Overflow](#buffer-overflow)
@@ -20,22 +21,28 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### TCP
+- Server: <a href=".\tcp\server.txt" target="_blank">server.py</a>
+- Client: <a href=".\tcp\client.txt" target="_blank">client.py</a>
+  
+<a href="#">To top</a>
+
 #### ARP
 - Docker Setup: <a href=".\arp\docker-compose.yml" target="_blank">docker-compose.yml</a>
-- arp poisoning: <a href=".\arp\arp.txt" target="_blank">arp.txt</a>
-- arp mitm: <a href=".\arp\mitm.txt" target="_blank">mitm.txt</a>
+- arp poisoning: <a href=".\arp\arp.txt" target="_blank">arp.py</a>
+- arp mitm: <a href=".\arp\mitm.txt" target="_blank">mitm.py</a>
   
 <a href="#">To top</a>
 
 #### Networking 
-- udp_client: <a href=".\network\udp_client.txt" target="_blank">udp_client.txt</a>
-- udp_server: <a href=".\network\udp_server.txt" target="_blank">udp_server.txt</a>
+- udp_client: <a href=".\network\udp_client.txt" target="_blank">udp_client.py</a>
+- udp_server: <a href=".\network\udp_server.txt" target="_blank">udp_server.py</a>
 - Docker Setup: <a href=".\network\docker-compose.yml" target="_blank">docker-compose.yml</a>
 - Scapy: 
-  - sniff: <a href=".\network\sniff.txt" target="_blank">sniff.txt</a>
-  - icmp_spoof: <a href=".\network\icmp_spoof.txt" target="_blank">icmp_spoof.txt</a>
-  - udp_spoof: <a href=".\network\udp_spoof.txt" target="_blank">udp_spoof.txt</a>
-  - sniff_spoof: <a href=".\network\sniff_spoof.txt" target="_blank">sniff_spoof.txt</a>
+  - sniff: <a href=".\network\sniff.txt" target="_blank">sniff.py</a>
+  - icmp_spoof: <a href=".\network\icmp_spoof.txt" target="_blank">icmp_spoof.py</a>
+  - udp_spoof: <a href=".\network\udp_spoof.txt" target="_blank">udp_spoof.py</a>
+  - sniff_spoof: <a href=".\network\sniff_spoof.txt" target="_blank">sniff_spoof.py</a>
   
 <a href="#">To top</a>
 
