@@ -25,7 +25,9 @@ This page contains notes and code snippets regularly used in class.
 - Client: <a href=".\tcp\client.txt" target="_blank">client.py</a>
 - Server: <a href=".\tcp\server.txt" target="_blank">server.py</a>
 - Multi Server: <a href=".\tcp\serve2.txt" target="_blank">server2.py</a>
-
+- Synflood: <a href=".\tcp\synflood.txt" target="_blank">synflood.py</a>
+- Synfloof: <a href=".\tcp\synflood.c" target="_blank">synflood.c</a>
+  
 <a href="#">To top</a>
 
 #### ARP
