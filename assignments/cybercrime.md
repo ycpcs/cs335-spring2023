@@ -15,7 +15,8 @@ title: "Cybersecurity research project"
 - Attacks on Banks and Gov. sites within Ukraine
 - Triton
   
-  ---------
+---------
+
 ### Introduction
 
 The topic will be on a true story from the dark side of the internet.
