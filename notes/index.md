@@ -27,6 +27,8 @@ This page contains notes and code snippets regularly used in class.
 - Multi Server: <a href=".\tcp\server2.txt" target="_blank">server2.py</a>
 - Synflood: <a href=".\tcp\synflood.txt" target="_blank">synflood.py</a>
 - Synfloof: <a href=".\tcp\synflood.c" target="_blank">synflood.c</a>
+- Reset: <a href=".\tcp\reset.txt" target="_blank">reset.py</a>
+- Auto Reset: <a href=".\tcp\auto_reset.txt" target="_blank">auto_reset.py</a>
   
 <a href="#">To top</a>
 
