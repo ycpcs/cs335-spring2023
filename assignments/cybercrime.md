@@ -14,7 +14,10 @@ title: "Cybersecurity research project"
 - Michael Calce (MafiaBoy)
 - Attacks on Banks and Gov. sites within Ukraine
 - Triton
-  
+- Silk Road Marketplace
+- Deepfakes
+
+
 ---------
 
 ### Introduction
