@@ -16,7 +16,9 @@ title: "Cybersecurity research project"
 - Triton
 - Silk Road Marketplace
 - Deepfakes
-
+- WannaCry
+- Confiker 
+- War Thunder Leaks
 
 ---------
 
