@@ -13,15 +13,11 @@ Great Firewall of China | Cryptolocker
 MyDoom Virus | The Pirate Bay 
 ILOVEYOU | Brett Johnson (GOllumfum)
 Social Engineering Fraud | Zero-Day Exploits
-Flashback |
-Michael Calce (MafiaBoy) |
-Attacks on Banks and Gov. sites within Ukraine |
-Triton |
-Silk Road Marketplace |
-Deepfakes |
-WannaCry |
-Confiker |
-War Thunder Leaks | 
+Flashback | War Thunder Leaks
+Michael Calce (MafiaBoy) | Confiker
+Attacks on Banks and Gov. sites within Ukraine | WannaCry
+Triton | Deepfakes
+Silk Road Marketplace | 
 
 ---------
 
