@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [IP](#ip)
 - [TCP](#tcp)
 - [ARP](#arp)
 - [Networking](#networking)
@@ -21,6 +22,14 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### IP 
+- Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
+- Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
+- Fragment: <a href=".\ip\fragment.txt" target="_blank">fragment.py</a>
+- ICMP: <a href=".\ip\icmp.txt" target="_blank">icmp.py</a>
+
+<a href="#">To top</a>
+  
 #### TCP
 - Client: <a href=".\tcp\client.txt" target="_blank">client.py</a>
 - Server: <a href=".\tcp\server.txt" target="_blank">server.py</a>
