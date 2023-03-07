@@ -27,6 +27,8 @@ This page contains notes and code snippets regularly used in class.
 - Traceroute: <a href=".\ip\traceroute.txt" target="_blank">traceroute.py</a>
 - Fragment: <a href=".\ip\fragment.txt" target="_blank">fragment.py</a>
 - ICMP: <a href=".\ip\icmp.txt" target="_blank">icmp.py</a>
+- Docker Setup: <a href=".\ip\Labsetup.zip">Labsetup.zip</a>
+  - ```sudo sysctl net.ipv4.conf.all.accept_redirects=1```
 
 <a href="#">To top</a>
   
