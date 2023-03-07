@@ -5,20 +5,23 @@ title: "Cybersecurity research project"
 ---
 
 ### Topics already picked
-- AlphaBay
-- Great Firewall of China
-- MyDoom Virus
-- ILOVEYOU
-- Social Engineering Fraud 
-- Flashback 
-- Michael Calce (MafiaBoy)
-- Attacks on Banks and Gov. sites within Ukraine
-- Triton
-- Silk Road Marketplace
-- Deepfakes
-- WannaCry
-- Confiker 
-- War Thunder Leaks
+
+| | |
+|---|--|
+AlphaBay |  TikTok Spyware
+Great Firewall of China | Cryptolocker 
+MyDoom Virus | The Pirate Bay 
+ILOVEYOU | Brett Johnson (GOllumfum)
+Social Engineering Fraud | Zero-Day Exploits
+Flashback |
+Michael Calce (MafiaBoy) |
+Attacks on Banks and Gov. sites within Ukraine |
+Triton |
+Silk Road Marketplace |
+Deepfakes |
+WannaCry |
+Confiker |
+War Thunder Leaks | 
 
 ---------
 
@@ -55,7 +58,6 @@ The topic will be accompanied by a student led class discussion about the variou
   - NotPetya
   - Triton
   - ILOVEYOU
-  - CryptoLocker
 - Reformed Cybercriminals
    - Brett Johnson
    - Kevin Mitnick
