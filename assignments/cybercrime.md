@@ -19,6 +19,8 @@ Attacks on Banks and Gov. sites within Ukraine | WannaCry
 Triton | Deepfakes
 Silk Road Marketplace | Financial Fraud 
 Stuxnet | Robert Tappan Morris and the Morris Worm 
+Anonimity and Tor | NotPetya 
+Hardware-Related Hacking | 
 
 
 ---------
