@@ -21,7 +21,7 @@ Silk Road Marketplace | Financial Fraud
 Stuxnet | Robert Tappan Morris and the Morris Worm 
 Anonimity and Tor | NotPetya 
 Hardware-Related Hacking | Martin Gottesfeld
-AcidRain |
+AcidRain | Kevin Poulsen
 
 ---------
 
