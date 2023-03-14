@@ -22,12 +22,12 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 04 | Feb 16 | Buffer Overflow - 64 bit, Server Version | CIS: Ch 4 | [Buffer Overflow Lab](../labs/buffer_overflow.html) 
 > | | | |
 > 05 | Feb 21 | [Network Basics](../slides/Network_Basics.pdf) | CIS: Ch 15 |
-> 05 | Feb 23 | [ARP Spoofing](../slides/ARP_Spoofing.pdf) | | ARP Cache Poisoning Attack Lab
+> 05 | Feb 23 | [ARP Spoofing](../slides/ARP_Spoofing.pdf) | | [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/)<sup>*</sup>
 > | | | |
 > 06 | Feb 28 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP Attack Lab](../labs/tcp_attack.html)
 > 06 | Mar 02 | TCP Session Hijacking | CIS: Ch 16 | 
 > | | | |
-> 07 | Mar 07 | Attacks on IP and ICMP | | ICMP Redirect Attack Lab
+> 07 | Mar 07 | Attacks on IP and ICMP | | [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/)<sup>*</sup>
 > 07 | Mar 09 | _Winter Vacation_ | |
 > | | | |
 > 08 | Mar 14 | *__Cybersecurity Research Project Presentations__* | |
@@ -56,5 +56,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > | | | |
 > 16 | May 09 | *__Student Final Project Presentations__*
 > 16 | May 11 | *__Student Final Project Presentations__*
+
+<sup>*</sup> Optional 
 
 **Disclaimer:** This schedule is subject to change by the instructor.

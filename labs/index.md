@@ -14,6 +14,7 @@ This page links to lab assignments.
 > Attacks on TCP | [Description and Tasks](tcp_attack.html) | Mar 12
 > Local DNS Attacks | [Description and Tasks](dns_attack.html) | Mar 30
 
+
 <!--
 > Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 17
 > Cross-Site Request Forgery (CSRF) Attack | [Description and Tasks](csrf_attack.html) | Apr 16
