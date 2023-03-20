@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [DNS](#dns)
 - [IP](#ip)
 - [TCP](#tcp)
 - [ARP](#arp)
@@ -21,6 +22,13 @@ This page contains notes and code snippets regularly used in class.
 - [Install Editors](#install-editors)
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
+
+#### DNS 
+- Send DNS query: <a href=".\dns\send_dns_query.txt" target="_blank">send_dns_query.py</a>
+- DNS server: <a href=".\dns\dns-server.txt" target="_blank">dns-server.py</a>
+- Domain Name System (DNS) IANA Considerations: [RFC 6895](https://tools.ietf.org/html/rfc6895)
+
+<a href="#">To top</a>
 
 #### IP 
 - Ping: <a href=".\ip\ping.txt" target="_blank">ping.py</a>
