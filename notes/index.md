@@ -27,6 +27,7 @@ This page contains notes and code snippets regularly used in class.
 - Send DNS query: <a href=".\dns\send_dns_query.txt" target="_blank">send_dns_query.py</a>
 - DNS server: <a href=".\dns\dns-server.txt" target="_blank">dns-server.py</a>
 - Domain Name System (DNS) IANA Considerations: [RFC 6895](https://tools.ietf.org/html/rfc6895)
+- DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION: [RFC 1035](https://tools.ietf.org/html/rfc1035)
 - DNS Cache 
   - To flush the DNS cache: ```rndc flush```
   - To dump the local DNS cache: ```rndc dumpdb -cache``` and follow up with ```cat /var/cache/bind/dump.db```
