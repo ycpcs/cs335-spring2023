@@ -30,7 +30,8 @@ This page contains notes and code snippets regularly used in class.
 - DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION: [RFC 1035](https://tools.ietf.org/html/rfc1035)
 - DNS Cache 
   - To flush the DNS cache: ```rndc flush```
-  - To dump the local DNS cache: ```rndc dumpdb -cache``` view with: ```cat /var/cache/bind/dump.db```
+  - To dump the local DNS cache: ```rndc dumpdb -cache```
+  - View DNS cache: ```cat /var/cache/bind/dump.db```
 - Potential Traffic Issues 
   - Delay the network traffic by 100ms: ```tc qdisc add dev eth0 root netem delay 100ms```
   - Delete the tc entry: ```tc qdisc del dev eth0 root netem```
