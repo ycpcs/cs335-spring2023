@@ -23,10 +23,10 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * **Apr 30** &mdash; [SQL Injection Attack](labs/sql_attack.html) Lab Due
 * **Apr 23** &mdash; [Cross-Site Scripting Attack](labs/xss_attack.html) Lab Due
 * **Apr 16** &mdash; [Cross-Site Request Forgery Attack](labs/csrf_attack.html) Lab Due
-* **Apr 14** &mdash; [Final Project](assignments/project.html) Proposal Due
-
 * **Mar 17** &mdash; [Packet Sniffing and Spoofing](labs/sniff_spoof.html) Lab Due-->
+  
 * **Apr 02** &mdash; [Local DNS Attacks](labs/dns_attack.html) Lab Due
+* **Mar 30** &mdash; [Final Project](assignments/project.html) Proposal Due
 * **Mar 14** &mdash; [Cybersecurity Research Project](assignments/cybercrime.html) Report Due
 * **Mar 12** &mdash; [Attacks on TCP](labs/tcp_attack.html) Lab Due
 * **Mar 03** &mdash; [Buffer Overflow](labs/buffer_overflow.html) Attack Lab Due
