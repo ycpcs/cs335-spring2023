@@ -10,6 +10,15 @@ Code, slides and report: due **Tuesday, May 02<sup>th</sup>** by 11:59 PM
 
 Presentations: **Tuesday, May 09<sup>th</sup>**
 
+### Topics already picked
+
+| | |
+|---|--|
+Bluetooth Hacking | Secure chat application on TOR/I2P 
+QR Code Security | Keyloggers
+Remote Desktop Application Vulnerabilities | Spectre Attack
+Website Scraper | 
+
 ### Introduction
 
 In this lab, you will work on a final project of your own choice. The Instructor __must__ approve your project.
