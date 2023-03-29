@@ -17,7 +17,8 @@ Presentations: **Tuesday, May 09<sup>th</sup>**
 Bluetooth Hacking | Secure chat application on TOR/I2P 
 QR Code Security | Keyloggers
 Remote Desktop Application Vulnerabilities | Spectre Attack
-Website Scraper | 
+Website Scraper | Format String Vulnerability
+Blockchain Security | RFID Spoofing
 
 ### Introduction
 
