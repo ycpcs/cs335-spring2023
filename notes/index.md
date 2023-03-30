@@ -33,7 +33,7 @@ This page contains notes and code snippets regularly used in class.
   - ``` make -s clean && make -sj4```
   - ``` pip install --user dpkt```
 - Wordlists
-  - [rockyou.txt](pass\rockyou.txt.tar.gz)
+  - [rockyou.txt](pass\rockyou.txt.tar.gz), extract with ```tar -xvf rockyou.txt.tar.gz```
 - Crack me
   - [joke.docx](pass\joke.docx)
   - [joke.pdf](pass\joke.pdf)
