@@ -34,6 +34,8 @@ This page contains notes and code snippets regularly used in class.
   - ``` pip install --user dpkt```
 - Wordlists
   - [rockyou.txt](pass\rockyou.txt.tar.gz), extract with ```tar -xvf rockyou.txt.tar.gz```
+  - [https://www.openwall.com/wordlists/](https://www.openwall.com/wordlists/)
+  - More under (resources)[..\resources\index.html] ... 
 - Crack me
   - [joke.docx](pass\joke.docx)
   - [joke.pdf](pass\joke.pdf)
