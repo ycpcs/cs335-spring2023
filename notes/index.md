@@ -28,11 +28,16 @@ This page contains notes and code snippets regularly used in class.
 - John The Ripper
   - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
   - ```cd ./JohnTheRipper/src```
-  - ```sudo apt-get update```
   - ```sudo apt-get install libssl-dev```
   - ```./configure```
   - ``` make -s clean && make -sj4```
   - ``` pip install --user dpkt```
+- Wordlists
+  - [rockyou.txt](pass\rockyou.txt.tar.gz)
+- Crack me
+  - [joke.docx](pass\joke.docx)
+  - [joke.pdf](pass\joke.pdf)
+  - [joke.zip](pass\joke.zip)
   
 <a href="#">To top</a>
 
