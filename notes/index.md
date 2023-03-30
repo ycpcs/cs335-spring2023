@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Passwords](#passwords)
 - [DNS](#dns)
 - [IP](#ip)
 - [TCP](#tcp)
@@ -22,6 +23,18 @@ This page contains notes and code snippets regularly used in class.
 - [Install Editors](#install-editors)
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
+
+#### Passwords
+- John The Ripper
+  - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
+  - ```cd ./JohnTheRipper/src```
+  - ```sudo apt-get update```
+  - ```sudo apt-get install libssl-dev```
+  - ```./configure```
+  - ``` make -s clean && make -sj4```
+  - ``` pip install --user dpkt```
+  
+<a href="#">To top</a>
 
 #### DNS 
 - Send DNS query: <a href=".\dns\send_dns_query.txt" target="_blank">send_dns_query.py</a>
