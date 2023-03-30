@@ -134,7 +134,7 @@ This page contains notes and code snippets regularly used in class.
 - ```groupadd attackers``` created a group named _attackers_
 - ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_
 - ```passwd john``` will set the password for the user _john_
-- ```usermod -a -G attackers geek``` adds _john_ to the _attackers_ group
+- ```usermod -a -G attackers john``` adds _john_ to the _attackers_ group
 - ```usermod --shell /bin/bash john``` update the default shell to bash of user _john_
 - ```sudo gpasswd -d john attackers``` removes _john_ from the _attackers_ group
 - ```userdel john``` deletes the _john_ account
