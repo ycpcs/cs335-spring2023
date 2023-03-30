@@ -19,6 +19,9 @@ QR Code Security | Keyloggers
 Remote Desktop Application Vulnerabilities | Spectre Attack
 Website Scraper | Format String Vulnerability
 Blockchain Security | RFID Spoofing
+Identity Spoofing | Compile Time Randomization
+PoisonTap | Custom Rnsomware 
+Meltdown | 
 
 ### Introduction
 
