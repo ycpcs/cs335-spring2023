@@ -21,7 +21,8 @@ Website Scraper | Format String Vulnerability
 Blockchain Security | RFID Spoofing
 Identity Spoofing | Compile Time Randomization
 PoisonTap | Custom Ransomware 
-Meltdown | 
+Meltdown | Pseudo number generation
+MD5 Collision Attack |
 
 ### Introduction
 
