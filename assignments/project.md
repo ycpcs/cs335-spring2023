@@ -24,8 +24,8 @@ Pseudo Number Generation | Custom Ransomware
 2FA | Wiper Malware 
 Firewall Lab | Race Condition Vulnerability 
 NoCry Malware | Dirty Cow 
-Compile Time Randomization | 
-
+Compile Time Randomization | Identity Spoofing
+MD5 Collision Attack | PoisonTap
 
 ### Introduction
 
