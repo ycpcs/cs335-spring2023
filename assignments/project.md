@@ -19,6 +19,13 @@ QR Code Security | Keyloggers
 Remote Desktop Application Vulnerabilities | Spectre Attack
 Website Scraper | Format String Vulnerability
 Blockchain Security | RFID Spoofing
+Searchable Encryption |  Meltdown Attack
+Pseudo Number Generation | Custom Ransomware 
+2FA | Wiper Malware 
+Firewall Lab | Race Condition Vulnerability 
+NoCry Malware | Dirty Cow 
+Compile Time Randomization | 
+
 
 ### Introduction
 
