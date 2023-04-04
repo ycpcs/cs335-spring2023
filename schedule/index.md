@@ -39,7 +39,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 10 | Mar 28 | __Quiz 1__ | |
 > 10 | Mar 30 | Password Cracking | |
 > | | | |
-> 11 | Apr 04 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
+> 11 | Apr 04 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf.html)
 > 11 | Apr 06 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
 > | | | |
 > 12 | Apr 11 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
