@@ -31,6 +31,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 - [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) gets or sets the HTML markup contained within the element.
 - [CSP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
+- [XSS Filter Evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
 
 ### Examples
 - [https://hackerone.com/reports/106293](https://hackerone.com/reports/106293/)

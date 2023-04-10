@@ -32,7 +32,8 @@ Samy | samy | seedsamy
  - [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.
  - The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
  - [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
-
+ - [Cross-Site Request Forgery Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+ - 
 ### Examples
 - [https://hackerone.com/reports/834366](https://hackerone.com/reports/834366)
 - [https://hackerone.com/reports/204703](https://hackerone.com/reports/204703)
