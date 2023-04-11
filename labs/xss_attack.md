@@ -15,6 +15,16 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - You *must* provide a screenshot of the network traffic with each attack.
 
+#### Login information
+
+User | User Name | Password
+-----|----------|---------
+Admin | admin | seedelgg
+Alice | alice | seedalice
+Boby | boby | seedboby
+Charlie | charlie | seedcharlie
+Samy | samy | seedsamy
+
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
 - [https://samy.pl/myspace/](https://samy.pl/myspace/)
