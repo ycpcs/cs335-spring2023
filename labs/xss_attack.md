@@ -25,6 +25,9 @@ Boby | boby | seedboby
 Charlie | charlie | seedcharlie
 Samy | samy | seedsamy
 
+Example of add a friend script: <a href=".\xss\add-a-friend.txt" target="_blank">add-a-friend.js</a>
+Example of update profile script: <a href=".\xss\update-profile.txt" target="_blank">update-profile.js</a>
+
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
 - [https://samy.pl/myspace/](https://samy.pl/myspace/)
