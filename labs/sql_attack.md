@@ -15,6 +15,17 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 [Bobby Tables](https://bobby-tables.com/): A guide to preventing SQL injection
 
+#### Login information
+
+User |  Password
+-----|---------
+admin | seedadmin
+alice | seedalice
+boby | seedboby
+ryan | seedryan
+ted | seedted
+samy | seedsamy
+
 ### Tips
 
 - Multiple ways to generate SHA1 of a password:
