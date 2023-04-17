@@ -15,14 +15,4 @@ This page links to lab assignments.
 > Local DNS Attacks | [Description and Tasks](dns_attack.html) | Apr 02
 > Cross-Site Request Forgery (CSRF) Attack | [Description and Tasks](csrf.html) | Apr 16
 > Cross-Site Scripting (XSS) Attack | [Description and Tasks](xss_attack.html) | Apr 23
-
-<!--
-> Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 17
 > SQL Injection Attack | [Description and Tasks](sql_attack.html) | Apr 30 
--->
-
-<!--
-> Public-Key Infrastructure (PKI) Lab * | [Description and Tasks](pki.html) | May 06
--->
-
-<!-- <sup>*</sup> Optional Lab -->

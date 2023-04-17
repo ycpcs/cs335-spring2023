@@ -6,9 +6,11 @@ title: "Final Project"
 
 Proposal: due **Thursday, March 30<sup>th</sup>** by 11:59 PM
 
-Code, slides and report: due **Tuesday, May 02<sup>th</sup>** by 11:59 PM
+Code, slides and report: due **Tuesday, May 04<sup>th</sup>** by 11:59 PM
 
-Presentations: **Tuesday, May 09<sup>th</sup>**
+Presentations:
+  - 801: **Tuesday, May 09<sup>th</sup>**
+  - 802: **Thursday, May 11<sup>th</sup>**
 
 ### Topics already picked
 
