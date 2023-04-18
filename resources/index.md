@@ -115,6 +115,7 @@ Forensics
 - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) is a simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in _.reg_ file format. OfflineRegistryView is by [NirSoft](https://www.nirsoft.net/) which also provides a plethora of other related tools.
 - [sleuthkit.org](https://www.sleuthkit.org/) is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools.  
 - The Cyber Swiss Army Knife [CyberChef](https://gchq.github.io/CyberChef) - a web app for encryption, encoding, compression and data analysis.
+- Hash, hashing and encryption toolkit: [https://md5hashing.net/](https://md5hashing.net/)
 - [Maltego](https://www.maltego.com/) is a computer forensics and OSINT tool.
 
 Reverse Engineering
