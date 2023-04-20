@@ -14,6 +14,7 @@ title: Lab - SQL Injection Lab
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/).
 
 [Bobby Tables](https://bobby-tables.com/): A guide to preventing SQL injection
+[SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 
 #### Login information
 
