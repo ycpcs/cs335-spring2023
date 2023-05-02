@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [Clickjack](#clickjack)
 - [SQL](#sql)
 - [Passwords](#passwords)
 - [DNS](#dns)
@@ -24,6 +25,11 @@ This page contains notes and code snippets regularly used in class.
 - [Install Editors](#install-editors)
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
+
+#### Clickjack 
+- iframe Demo:: <a href=".\clickjack\index.txt" target="_blank">index.html</a> 
+
+<a href="#">To top</a>
 
 #### SQL
 - Create Table: <a href=".\sql\create-table.txt" target="_blank">create-table.sql</a>
