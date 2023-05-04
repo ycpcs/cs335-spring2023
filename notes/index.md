@@ -6,7 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
-- [OWASP Juice Shop](#owasp-juice-shop)
+- [Game](#game)
 - [Clickjack](#clickjack)
 - [SQL](#sql)
 - [Passwords](#passwords)
@@ -27,7 +27,9 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
-#### OWASP Juice Shop
+#### Game
+- [OWASP Juice Shop]https://owasp.org/www-project-juice-shop/
+- [slides](https://juice-shop.github.io/juice-shop/#/)
 - ```docker pull bkimminich/juice-shop```
 - ```docker run --rm -p 3000:3000 bkimminich/juice-shop```
 - Navigate to http://localhost:3000 
