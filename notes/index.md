@@ -6,6 +6,7 @@ title: Notes and Snippets
 
 This page contains notes and code snippets regularly used in class.
 
+- [OWASP Juice Shop](#owasp-juice-shop)
 - [Clickjack](#clickjack)
 - [SQL](#sql)
 - [Passwords](#passwords)
@@ -26,8 +27,15 @@ This page contains notes and code snippets regularly used in class.
 - [Clone a website](#clone-a-website)
 - [Upgrade VM](#upgrade-vm)
 
+#### OWASP Juice Shop
+- ```docker pull bkimminich/juice-shop```
+- ```docker run --rm -p 3000:3000 bkimminich/juice-shop```
+- Navigate to http://localhost:3000 
+
+<a href="#">To top</a>
+
 #### Clickjack 
-- iframe Demo:: <a href=".\clickjack\index.txt" target="_blank">index.html</a> 
+- iframe Demo: <a href=".\clickjack\index.txt" target="_blank">index.html</a> 
 
 <a href="#">To top</a>
 

@@ -52,10 +52,10 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 14 | Apr 27 | __Quiz 2__ | |
 > | | | |
 > 15 | May 02 | Clickjacking Attack | |
-> 15 | May 04 | Game | |
+> 15 | May 04 | [Game](../notes/index.html#owasp-juice-shop) | |
 > | | | |
-> 16 | May 09 | *__Student Final Project Presentations__*
-> 16 | May 11 | *__Student Final Project Presentations__*
+> 16 | May 09 | *__Student Final Project Presentations__* | 801
+> 16 | May 11 | *__Student Final Project Presentations__* | 802
 
 <sup>*</sup> Optional 
 
