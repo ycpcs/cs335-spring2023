@@ -28,7 +28,7 @@ This page contains notes and code snippets regularly used in class.
 - [Upgrade VM](#upgrade-vm)
 
 #### Game
-- [OWASP Juice Shop]https://owasp.org/www-project-juice-shop/
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [slides](https://juice-shop.github.io/juice-shop/#/)
 - ```docker pull bkimminich/juice-shop```
 - ```docker run --rm -p 3000:3000 bkimminich/juice-shop```
